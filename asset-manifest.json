@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kvenkycode/swiggy-clone.git/static/css/main.31d6cfe0.css",
+    "main.js": "/kvenkycode/swiggy-clone.git/static/js/main.9e813a81.js",
+    "static/js/453.616ce865.chunk.js": "/kvenkycode/swiggy-clone.git/static/js/453.616ce865.chunk.js",
+    "static/media/logo.svg": "/kvenkycode/swiggy-clone.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kvenkycode/swiggy-clone.git/index.html",
+    "main.9e813a81.js.map": "/kvenkycode/swiggy-clone.git/static/js/main.9e813a81.js.map",
+    "453.616ce865.chunk.js.map": "/kvenkycode/swiggy-clone.git/static/js/453.616ce865.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9e813a81.js"
+  ]
+}
